@@ -1,6 +1,4 @@
-.funParagraph {
-    color: green;
-}
+
 
 p.redFont {
     color: red;
@@ -27,6 +25,10 @@ p {
     color: black;
     margin-left: 250px;
     margin-right: 250px;
+}
+
+p.funParagraph {
+    color: green;
 }
 
 img {
